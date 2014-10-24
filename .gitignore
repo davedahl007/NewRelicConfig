@@ -1,0 +1,4 @@
+# Ignore files with sensative New Relic and/or Storyboard info
+*.gitignore.config
+newrelic.config
+*.swp
